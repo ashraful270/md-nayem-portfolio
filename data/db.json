@@ -1,0 +1,489 @@
+{
+  "admin": {
+    "id": "admin-1",
+    "username": "admin",
+    "passwordHash": "662cb904dbb9f684e6679c9c6c8ff124d470aeb95644ca486a8bf658f0543eb97808a823bd6011830a98af8c36978b129530f8f41efb081c8ce4e4af7e3e5ade",
+    "salt": "aee95ae23876d04d7accf2aa3a97083e",
+    "updatedAt": "2026-10-09T13:24:43.083Z"
+  },
+  "settings": {
+    "siteTitle": "MD NAYEM HOSSAIN — 3D Artist & EEE Engineer",
+    "metaDescription": "Official portfolio of MD NAYEM HOSSAIN. Specializing in 3D modeling, game assets, product visualization, and industrial mechanical design.",
+    "keywords": "MD NAYEM HOSSAIN, 3D Artist, EEE Engineer, Blender 3D, SolidWorks, Product Visualization, Game Assets, Industrial Design, Bangladesh",
+    "ogImage": "/src/assets/images/hero_3d_character_1791315281517.jpg",
+    "contactEmail": "nayemh161@gmail.com",
+    "contactPhone": "+8801318527145",
+    "contactWhatsapp": "+8801984-382715",
+    "contactLocation": "Bajitpur, Kishoreganj, Dhaka, Bangladesh",
+    "maintenanceMode": false
+  },
+  "hero": {
+    "heading": "I'm EEE Engineer & 3D Artist",
+    "bio": "Believe in working and consistency in chasing the dream",
+    "characterImage": "/uploads/WhatsAppImage2026-10-06at11442-1791467665445-15984a04.jpg",
+    "rightGreeting": "Hello! I Am MD NAYEM HOSSAIN",
+    "rightTitle": "3D modeling and product visualization",
+    "rightRole": "A designer who",
+    "rightSubtitle": "You will get here huge game assets achieve elements, and industrial product design with proper management.",
+    "ctaText": "View My Projects",
+    "ctaLink": "#projects",
+    "secondaryCtaText": "Hire Me",
+    "secondaryCtaLink": "#contact"
+  },
+  "about": {
+    "heading": "About Me",
+    "intro": "Bridging the gap between engineering precision and creative 3D artistry.",
+    "detailedBio": "I am an Electrical and Electronic Engineer with a passionate dedication to high-fidelity 3D modeling, game asset development, and industrial product visualization. My background in engineering allows me to understand functional mechanics, structural aesthetics, and precision CAD, while my 3D art experience empowers me to bring concepts to life with cinematic realism.",
+    "characterImage": "/uploads/WhatsAppImage2026-10-06at11-1791476087586-2c7ff8a3.jpg",
+    "experienceYears": "5+",
+    "completedProjects": "40+",
+    "ctaText": "Download Resume",
+    "ctaLink": "#contact",
+    "softSkills": [
+      {
+        "id": "soft-1",
+        "name": "Communication",
+        "order": 1,
+        "enabled": true
+      },
+      {
+        "id": "soft-2",
+        "name": "Networking",
+        "order": 2,
+        "enabled": true
+      },
+      {
+        "id": "soft-3",
+        "name": "Leadership Quality",
+        "order": 3,
+        "enabled": true
+      },
+      {
+        "id": "soft-5",
+        "name": "Problem Solving",
+        "order": 5,
+        "enabled": true
+      },
+      {
+        "id": "soft-1791479407811",
+        "name": "Decision Making",
+        "order": 5,
+        "enabled": true
+      }
+    ]
+  },
+  "education": [
+    {
+      "id": "edu-3",
+      "degree": "B.Sc. in Electrical and Electronic Engineering (EEE)",
+      "institution": "Green University of Bangladesh",
+      "year": "2019 – 2023",
+      "result": "CGPA 3.29 / 4.00",
+      "description": "Comprehensive study of circuit design, robotics, power systems, industrial automation, and micro-electromechanical systems.",
+      "order": 1
+    },
+    {
+      "id": "edu-2",
+      "degree": "Diploma in Engineering",
+      "institution": "SSR Institute of Technology and Management",
+      "year": "2019",
+      "result": "CGPA 3.23 / 4.00",
+      "description": "Applied technical foundation, mechanical drafting, CAD principles, and laboratory engineering operations.",
+      "order": 2
+    },
+    {
+      "id": "edu-1",
+      "degree": "Secondary School Certificate (SSC)",
+      "institution": "Sararchar Sibnath Bahumukhi High School",
+      "year": "2015",
+      "result": "GPA 4.06 / 5.00",
+      "description": "Science curriculum with distinction in mathematics, physics, and computer science.",
+      "order": 3
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-1",
+      "name": "Blender 3D",
+      "category": "3d_cad",
+      "icon": "Box",
+      "proficiency": 95,
+      "isFloatingHero": true,
+      "order": 1,
+      "enabled": true
+    },
+    {
+      "id": "skill-2",
+      "name": "Solid Works",
+      "category": "3d_cad",
+      "icon": "Wrench",
+      "proficiency": 90,
+      "isFloatingHero": true,
+      "order": 2,
+      "enabled": true
+    },
+    {
+      "id": "skill-3",
+      "name": "MATLAB",
+      "category": "engineering",
+      "icon": "BarChart3",
+      "proficiency": 85,
+      "isFloatingHero": true,
+      "order": 3,
+      "enabled": true
+    },
+    {
+      "id": "skill-4",
+      "name": "C PROGRAMING",
+      "category": "programming",
+      "icon": "Code2",
+      "proficiency": 80,
+      "isFloatingHero": true,
+      "order": 4,
+      "enabled": true
+    },
+    {
+      "id": "skill-5",
+      "name": "NDT",
+      "category": "engineering",
+      "icon": "ShieldCheck",
+      "proficiency": 85,
+      "isFloatingHero": true,
+      "order": 5,
+      "enabled": true
+    },
+    {
+      "id": "skill-6",
+      "name": "Graphic Design",
+      "category": "software",
+      "icon": "Palette",
+      "proficiency": 88,
+      "isFloatingHero": true,
+      "order": 6,
+      "enabled": true
+    },
+    {
+      "id": "skill-7",
+      "name": "MICROSOFT OFFICE",
+      "category": "software",
+      "icon": "FileSpreadsheet",
+      "proficiency": 92,
+      "isFloatingHero": true,
+      "order": 7,
+      "enabled": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "3D Modeling",
+      "slug": "3d-modeling"
+    },
+    {
+      "id": "cat-2",
+      "name": "Character Design",
+      "slug": "character-design"
+    },
+    {
+      "id": "cat-3",
+      "name": "Product Visualization",
+      "slug": "product-visualization"
+    },
+    {
+      "id": "cat-4",
+      "name": "Industrial Design",
+      "slug": "industrial-design"
+    },
+    {
+      "id": "cat-5",
+      "name": "Game Assets",
+      "slug": "game-assets"
+    },
+    {
+      "id": "cat-6",
+      "name": "Environment Design",
+      "slug": "environment-design"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "Precision 6-Axis Industrial Robotic Arm",
+      "slug": "precision-industrial-robotic-arm",
+      "shortDesc": "High-precision mechanical articulation unit engineered in SolidWorks and visualized in Blender 3D.",
+      "fullDesc": "A production-grade 6-axis industrial automated manipulator with high-torque servo housings, carbon-composite linkages, and internal cable management pathways. Rendered with photorealistic PBR metal and ceramic coatings under studio rim lighting.",
+      "category": "3D Modeling",
+      "tags": [
+        "Industrial Design",
+        "CAD Engineering",
+        "Robotics",
+        "Hard Surface"
+      ],
+      "software": [
+        "SolidWorks",
+        "Blender 3D",
+        "Substance 3D",
+        "Cycles"
+      ],
+      "year": "2024",
+      "client": "Automation Tech Ltd",
+      "thumbnail": "/uploads/fc67a6c8-0f4b-4652-8441-edb471-1791468208495-89e06a59.jpg",
+      "mainImage": "/uploads/fc67a6c8-0f4b-4652-8441-edb471-1791468208495-89e06a59.jpg",
+      "gallery": [
+        "/uploads/5289b6aa-1d65-47de-a84f-021309-1791487565527-78f3d7ff.jpg",
+        "/uploads/afe5c8fe-b80b-419e-a9ec-2b8d7c-1791487571974-1d10cb2a.jpg",
+        "/uploads/d295ddba-717b-490f-91c7-5799fd-1791487579603-d93f7af5.jpg"
+      ],
+      "has3DModel": true,
+      "model3DType": "glb-custom",
+      "featured": true,
+      "published": true,
+      "order": 1,
+      "videoUrl": "/uploads/ea15edca-3dd9-4263-a54e-db2167-1791475860751-e38cff82.mp4",
+      "model3DUrl": "/uploads/purple_fuzzy_keychain-1791476840465-ad789812.glb"
+    },
+    {
+      "id": "proj-2",
+      "title": "Apex Aero-Cyber Hypercar Concept",
+      "slug": "apex-aero-cyber-hypercar",
+      "shortDesc": "Aerodynamic futuristic electric supercar concept with active aero flap simulation and cockpit modeling.",
+      "fullDesc": "Conceptual electric hypercar featuring aggressive vortex-generating body contours, active aero diffusers, forged carbon panels, and distinctive luminescent optical lightbars. Designed for real-time visualization and automotive marketing assets.",
+      "category": "Product Visualization",
+      "tags": [
+        "Automotive",
+        "Product Visualization",
+        "Concept Design",
+        "Realtime"
+      ],
+      "software": [
+        "Blender 3D",
+        "Cycles",
+        "Photoshop"
+      ],
+      "year": "2024",
+      "client": "Apex Motorworks",
+      "thumbnail": "/uploads/d295ddba-717b-490f-91c7-5799fd-1791468225481-e766594f.jpg",
+      "mainImage": "/uploads/d295ddba-717b-490f-91c7-5799fd-1791468225481-e766594f.jpg",
+      "gallery": [
+        "/src/assets/images/project_cyber_car_1791315341985.jpg"
+      ],
+      "has3DModel": true,
+      "model3DType": "procedural-torus",
+      "featured": true,
+      "published": true,
+      "order": 2
+    },
+    {
+      "id": "proj-3",
+      "title": "Tactical Reconnaissance Drone Asset",
+      "slug": "tactical-recon-drone-asset",
+      "shortDesc": "Low-poly game asset with 4K PBR textures optimized for Unreal Engine 5 nanite & lumen pipelines.",
+      "fullDesc": "Military-grade autonomous tactical surveillance quadcopter. Features dual gimbaled optics, composite chassis, quiet rotor guards, and low-observable radar deflection geometry. Polycount: 14,200 tris with single 4K texture atlas.",
+      "category": "Game Assets",
+      "tags": [
+        "Game Assets",
+        "Low Poly",
+        "Unreal Engine",
+        "PBR Texturing"
+      ],
+      "software": [
+        "Blender 3D",
+        "Marmoset Toolbag",
+        "Substance Painter"
+      ],
+      "year": "2023",
+      "client": "Indie Game Studio",
+      "thumbnail": "/uploads/5289b6aa-1d65-47de-a84f-021309-1791468243633-dc3667e9.jpg",
+      "mainImage": "/uploads/5289b6aa-1d65-47de-a84f-021309-1791468243633-dc3667e9.jpg",
+      "gallery": [
+        "/src/assets/images/project_scifi_drone_1791315325282.jpg"
+      ],
+      "has3DModel": true,
+      "model3DType": "procedural-cube",
+      "featured": true,
+      "published": true,
+      "order": 3
+    },
+    {
+      "id": "proj-4",
+      "title": "Cyberpunk Digital Stylus & Console Rig",
+      "slug": "cyberpunk-stylus-console",
+      "shortDesc": "Ergonomic digital creator device with haptic feedback coils and modular biometric grips.",
+      "fullDesc": "Conceptual hardware prototype engineered for next-gen digital artists. Modeled with CAD tolerances in SolidWorks, then textured with brushed titanium and matte vulcanized silicone in Blender.",
+      "category": "3D Modeling",
+      "tags": [
+        "3D Modeling",
+        "Hardware",
+        "EEE Engineering",
+        "Ergonomics"
+      ],
+      "software": [
+        "SolidWorks",
+        "Blender 3D",
+        "KeyShot"
+      ],
+      "year": "2023",
+      "client": "Creative Hardware Lab",
+      "thumbnail": "/uploads/afe5c8fe-b80b-419e-a9ec-2b8d7c-1791468265805-858f19a8.jpg",
+      "mainImage": "/uploads/afe5c8fe-b80b-419e-a9ec-2b8d7c-1791468265805-858f19a8.jpg",
+      "gallery": [
+        "/src/assets/images/hero_3d_character_1791315281517.jpg"
+      ],
+      "has3DModel": true,
+      "model3DType": "procedural-torus",
+      "featured": false,
+      "published": true,
+      "order": 4
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1",
+      "title": "SSR Cultural Award",
+      "organization": "SSR Institute of Technology & Management",
+      "year": "2018",
+      "description": "Awarded for exceptional creative contribution, technical leadership, and collaborative performance across engineering exhibitions.",
+      "published": true,
+      "order": 1,
+      "externalLink": "https://nationalsteamolympiad.com/",
+      "icon": "Award",
+      "subtitle": "Cultural & Technical Leadership Recognition",
+      "image": "/uploads/ssr_award_certificate_1791489770946.jpg",
+      "certificateImage": "/uploads/ssr_award_certificate_1791489770946.jpg"
+    },
+    {
+      "id": "ach-2",
+      "title": "Finalist – National STEAM Olympiad",
+      "organization": "National Olympiad Bangladesh",
+      "year": "2024",
+      "description": "Recognized nationwide as a finalist for innovative interdisciplinary engineering project merging electronics, CAD modeling, and real-time visualization.",
+      "published": true,
+      "order": 2,
+      "image": "/uploads/489786634_4007791056205807_265-1791480034156-e87ee977.jpg",
+      "certificateImage": "/uploads/489786634_4007791056205807_265-1791480034156-e87ee977.jpg",
+      "icon": "Trophy",
+      "subtitle": "National Engineering & 3D Visualization Finalist"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-1791552339035-7j9xd",
+      "name": "Audit Bot",
+      "email": "audit@test.com",
+      "phone": "",
+      "address": "",
+      "message": "Hello from production audit verification",
+      "createdAt": "2026-10-09T13:25:39.035Z",
+      "read": false
+    },
+    {
+      "id": "msg-1791315913624-742oz",
+      "name": "Sophia Vance",
+      "email": "sophia@vancemedia.com",
+      "phone": "+14155552671",
+      "address": "New York",
+      "message": "Hello Nayem, we need 3D product visualization renders for our upcoming hardware launch.",
+      "createdAt": "2026-10-06T19:45:13.624Z",
+      "read": false
+    },
+    {
+      "id": "msg-sample-1",
+      "name": "Alex Mercer",
+      "email": "alex@novagames.io",
+      "phone": "+1 (555) 234-5678",
+      "address": "San Francisco, CA",
+      "message": "Hi Nayem, we were impressed by your 3D game assets and mechanical modeling skills. We have an upcoming sci-fi title and would love to discuss a freelance contract for vehicle and weapon assets.",
+      "createdAt": "2026-10-04T19:44:55.425Z",
+      "read": false
+    }
+  ],
+  "socials": [
+    {
+      "id": "soc-1",
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/md-nayem-hossain-47719021b",
+      "icon": "Linkedin",
+      "order": 1,
+      "enabled": true
+    },
+    {
+      "id": "soc-2",
+      "platform": "WhatsApp",
+      "url": "https://wa.me/8801984382715",
+      "icon": "MessageCircle",
+      "order": 2,
+      "enabled": true
+    },
+    {
+      "id": "soc-3",
+      "platform": "ArtStation",
+      "url": "https://www.artstation.com",
+      "icon": "Palette",
+      "order": 3,
+      "enabled": true
+    },
+    {
+      "id": "soc-4",
+      "platform": "Behance",
+      "url": "https://www.behance.net",
+      "icon": "Globe",
+      "order": 4,
+      "enabled": true
+    },
+    {
+      "id": "soc-5",
+      "platform": "Facebook",
+      "url": "https://facebook.com",
+      "icon": "Facebook",
+      "order": 5,
+      "enabled": true
+    }
+  ],
+  "navigation": {
+    "items": [
+      {
+        "id": "nav-1",
+        "label": "Home",
+        "href": "#home",
+        "order": 1,
+        "enabled": true
+      },
+      {
+        "id": "nav-2",
+        "label": "About Me",
+        "href": "#about",
+        "order": 2,
+        "enabled": true
+      },
+      {
+        "id": "nav-3",
+        "label": "My Projects",
+        "href": "#projects",
+        "order": 3,
+        "enabled": true
+      },
+      {
+        "id": "nav-4",
+        "label": "My Achievements",
+        "href": "#achievements",
+        "order": 4,
+        "enabled": true
+      },
+      {
+        "id": "nav-5",
+        "label": "Contact",
+        "href": "#contact",
+        "order": 5,
+        "enabled": true
+      }
+    ],
+    "hireMeText": "Hire Me",
+    "hireMeHref": "https://wa.me/8801984382715"
+  },
+  "footer": {
+    "brandName": "MD NAYEM HOSSAIN",
+    "tagline": "EEE Engineer & Professional 3D Artist",
+    "copyrightText": "© 2026 MD NAYEM HOSSAIN. All rights reserved.",
+    "showSocials": true
+  }
+}
